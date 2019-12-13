@@ -1,0 +1,28 @@
+.Login {
+    width: 83%;
+    display: inline-block;
+    vertical-align: top; 
+  }
+  
+  .Login .form-control {
+    width: 50%;
+    margin: 0 auto;
+    padding: 1%;
+    text-align: center;
+  }
+  
+  .Login label {
+    float: left;
+    width: 30%;
+    text-align: right;
+  }
+  
+  .Login input {
+    text-align: center; padding: 1%;
+    width: 50%; border-radius: 6px; color: #000000;
+  }
+  
+  .Login form button {
+    width: auto;
+    padding: 2%;
+  }

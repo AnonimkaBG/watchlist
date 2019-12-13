@@ -1,0 +1,63 @@
+.MyWatchlist{
+    display: inline-block;
+    width: 75%;
+    margin-right: 10%;
+    margin-left: 11%;
+    padding:1%;
+}
+
+.MyWatchlist p{
+    text-align: center;
+    font-size: 40px;
+}
+
+.MyWatchlist h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.MyMovie{
+    display: inline-block;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 25%;
+    padding:1%;
+    background-color: grey;
+    opacity: 0.9;
+    vertical-align: top;
+    height: 520px;
+    
+}
+.MyMovie a{
+    text-decoration: none;
+}
+
+.MyMovie img {
+    width: 200px;
+    height: 260px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.MyMovie p{
+    text-align: left;
+    font-size:1vw;
+    margin-bottom: 0%;
+    height: 160px;
+}
+
+.MyMovieTitle{
+    padding:1%;
+    height: 40px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.MyMovie button{
+    margin:auto;
+    margin-left: 15%;
+    float: right;
+}

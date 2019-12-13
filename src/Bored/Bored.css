@@ -1,0 +1,32 @@
+.BoredActivity h1{
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 96%;
+    background-color: rgba(0, 119, 199,0.5);
+    margin-bottom: 2%;
+    margin-left:1%;
+    padding:1%;
+}
+
+.BoredActivity{
+    margin-top:5%;
+    padding:0%;
+}
+
+.BoredActivity h2{
+    text-align: center;
+    margin-bottom: 3%;
+    font-size:40px;
+}
+
+.BoredActivity p{
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 30px;
+}
+
+.BoredActivity button{
+    margin-left: 45%;
+    padding:1%;
+}
